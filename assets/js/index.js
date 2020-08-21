@@ -1,6 +1,6 @@
 $(function() {
 
-    console.log(localStorage.getItem("token"));
+
     gitUserIofo();
 
 
